@@ -21,6 +21,8 @@ This project represents approximately **1.2 years of development work, effort, a
 
 We are making the code available so that other developers can explore it, learn from it, and use it as a starting point for their own projects, subject to the applicable license.
 
+To view the DEMO of the project kindly visit here "https://www.asifaliquraishi.in/projects/nexus-portal"
+
 ## Our Position
 
 This public release follows our attempts to recover our outstanding compensation and our consultation with legal professionals regarding our rights and available options under applicable labour laws.
