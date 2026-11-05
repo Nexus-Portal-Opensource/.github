@@ -1,4 +1,4 @@
-Public Statement Regarding the Release of Nexus Portal
+**Public Statement Regarding the Release of Nexus Portal**
 
 We are the former employees and contributors of Electric Octopus. This project is being made publicly available following an unresolved payment dispute involving Mikael Kayanian.
 
