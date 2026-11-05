@@ -1,47 +1,72 @@
-# Statement Regarding the Release of Nexus Portal
+Public Statement Regarding the Release of Nexus Portal
 
-We are former employees and contributors of Electric Octopus. We are making this project publicly available following an unresolved payment dispute with Mikael Kayanian.
+We are the former employees and contributors of Electric Octopus. This project is being made publicly available following an unresolved payment dispute involving Mikael Kayanian.
 
-According to our records, more than **$4,000 USD in hard-earned compensation remains unpaid** to former employees and contributors.
+According to our records, more than $4,000 USD in hard-earned compensation remains unpaid to affected former employees and contributors.
 
-We made repeated attempts to resolve this matter directly and requested payment of the outstanding amounts. We also raised our concerns publicly on LinkedIn:
+We made repeated attempts to resolve this matter privately and requested payment of the outstanding amounts. We also raised our concerns publicly on LinkedIn:
 
-**Public statement:**  
+Public Statement:
 https://www.linkedin.com/feed/update/urn:li:activity:7521046853493166080/
 
-Instead of reaching a payment resolution, we received a response containing vulgar language and no commitment to repay the outstanding amounts.
+Instead of receiving a meaningful payment resolution, we received abusive communications and no satisfactory commitment to settle the outstanding amounts.
 
-Before making this project public, we explicitly informed Mikael Kayanian that we would release the project as open source if the outstanding payments were not settled. His response was: "fuck it."
+Before this publication, we explicitly informed Mikael Kayanian that we intended to make the project publicly available if the outstanding payments were not settled. His response was: "fuck it."
 
-After exhausting our attempts to resolve this matter, we have decided to make this project available to the developer community.
+This Is a Collective Action
 
-## About This Project
+This publication is being made collectively by the affected former employees and contributors of Electric Octopus. It is not the decision or action of any single individual.
 
-This project represents approximately **1.2 years of development work, effort, and contributions** by former employees and developers.
+The alleged non-payment situation affects developers from India, Pakistan, and Bangladesh. These are hardworking individuals who invested their time, technical expertise, and professional efforts into building this product with the expectation of receiving their agreed compensation.
 
-We are making the code available so that other developers can explore it, learn from it, and use it as a starting point for their own projects, subject to the applicable license.
+This is not an isolated dispute involving one developer. Multiple individuals from different countries have been affected.
 
-To view the DEMO of the project kindly visit here "https://www.asifaliquraishi.in/projects/nexus-portal"
+Mikael Kayanian should understand that developers from South Asia are not isolated individuals who can simply be ignored or intimidated. We stand united in seeking accountability and justice for everyone affected.
 
-## Our Position
+This is not about nationality. It is about the rights, dignity, and fair compensation of developers.
 
-This public release follows our attempts to recover our outstanding compensation and our consultation with legal professionals regarding our rights and available options under applicable labour laws.
+Legal Action and Accountability
 
-We want to make our position clear:
+We have consulted legal professionals and are pursuing appropriate legal remedies in the respective jurisdictions.
 
-**We expect Mikael Kayanian to settle the outstanding payments owed to the former employees and contributors.**
+Legal proceedings and related actions are underway or being pursued in India, Pakistan, and Bangladesh.
 
-If Mikael Kayanian wants this project removed from public availability, he must first settle the outstanding payments in full with the affected former employees and contributors.
+We believe the applicable laws and legal institutions in these countries provide avenues for affected former employees and contributors to seek justice and recover their outstanding compensation.
 
-We are not asking for anything beyond the compensation we believe we have earned through our work.
+We are preserving relevant evidence, including employment communications, payment records, project contributions, and correspondence concerning the dispute.
 
-Until the outstanding payments are fully settled, we intend to keep this project publicly available, subject to our legal rights and obligations.
+Any threats, intimidation, or abusive communications will also be documented and referred to the appropriate authorities.
 
-**LinkedIn:**  
-https://www.linkedin.com/in/mkayanian
+About Nexus Portal
 
-Thank you to everyone in the developer community for understanding our position and respecting the work contributed to this project.
+Nexus Portal represents approximately 1.2 years of development work, technical effort, and contributions by former employees and developers.
+
+We are making this project available to the developer community for learning, exploration, and further development, subject to applicable intellectual property rights, licensing terms, and legal obligations.
+
+Our Position
+
+We expect Mikael Kayanian to settle all legitimate outstanding payments owed to the affected former employees and contributors.
+
+We are not demanding anything beyond the compensation we believe we rightfully earned through our work.
+
+We will continue pursuing this matter through appropriate legal channels and exercising our rights under applicable laws.
+
+We will not allow geographical distance, intimidation, or abusive communications to discourage us from seeking fair compensation.
+
+A Message to the Developer Community
+
+To developers across India, Pakistan, Bangladesh, and the wider global community:
+
+Your work has value. Your time has value. Your professional contributions deserve respect.
+
+No developer should have to fight repeatedly to receive payment for work already completed.
+
+We stand together because every affected developer deserves fairness, accountability, and justice.
+
+This publication represents the collective position of the affected former employees and contributors of Electric Octopus.
+
+Multiple developers. Three countries. One collective demand: Fair compensation and accountability.
 
 ---
 
-**From the former employees and contributors of Electric Octopus.**
+Published collectively by the affected former employees and contributors of Electric Octopus.
